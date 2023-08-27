@@ -7,6 +7,7 @@
     .hero img{
         width: 50vw;
         height: 60vh;
+		object-fit: cover;
     }
     .hero-text{
         margin: 0 20px;
